@@ -5,7 +5,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-
+//Google Pixel 4A
 public class CalcPixelTest {
    static AppiumDriver<MobileElement> driver;
     public static void main(String[] args) {
